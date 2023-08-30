@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Fábio Gomes
 
-- 🔭 Pretendo trabalhar com Front-End.
-- 🌱 Estudando HTML, MySql, CSS, Java.
-- 💹 Estudando para trabalhar na parte de Full Stack.
+-👨‍💻 Pretendo trabalhar com Front-End.
+-📝 Estudei/Estudo: HTML, CSS , MySql , Java.
 
 ### Estudei/Estudo:
 

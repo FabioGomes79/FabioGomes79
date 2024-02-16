@@ -25,6 +25,9 @@
   <a>
     <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt = "MySql" width ="60">
   </a>
+  <a>
+    <img src = "https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-thumbnail.png" alt = "JavaScript" width ="60">
+  </a>
 </div>
 
 ### Redes Sociais:

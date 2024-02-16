@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Fábio Gomes
 
 - 👨‍💻 Pretendo trabalhar com Front-End. 
-- 📝 Estudei/Estudo: HTML, CSS , Java , C, MySql.
+- 📝 Estudei/Estudo: HTML, CSS , JavaScript, Java , C, MySql.
 
 ### Estudei/Estudo:
 
@@ -30,7 +30,12 @@
     <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt = "MySql" width ="60">
   </a>
 
-</div>
+</div> 
+
+### Estudando no Monmento: 
+<a>
+    <img src = "https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.jpg" alt = "JavaScript" width ="60">
+  </a>
 
 ### Redes Sociais:
 

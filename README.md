@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Fábio Gomes 💻
 
-- Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou sempre em busca de desafios que me permitam expandir meu conhecimento e habilidades nesta área emocionante e em constante evolução,estou constantemente explorando novas tecnologias, frameworks e bibliotecas que possam aprimorar minha capacidade de criar interfaces de usuário intuitivas e esteticamente agradáveis. Além do aspecto técnico, também estou focado em desenvolver minhas habilidades de comunicação e trabalho em equipe. Acredito que a colaboração eficaz é fundamental para o sucesso em qualquer ambiente.
+Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou sempre em busca de desafios que me permitam expandir meu conhecimento e habilidades nesta área emocionante e em constante evolução,estou constantemente explorando novas tecnologias, frameworks e bibliotecas que possam aprimorar minha capacidade de criar interfaces de usuário intuitivas e esteticamente agradáveis. Além do aspecto técnico, também estou focado em desenvolver minhas habilidades de comunicação e trabalho em equipe. Acredito que a colaboração eficaz é fundamental para o sucesso em qualquer ambiente.
 
 ### Estudei/Estudo:
 

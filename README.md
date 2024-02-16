@@ -15,6 +15,10 @@
   </a>
 
   <a>
+    <img src = "https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.jpg" alt = "JavaScript" width ="60">
+  </a>
+
+  <a>
     <img src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" alt="Java" width="60">
   </a>
 
@@ -25,9 +29,7 @@
   <a>
     <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt = "MySql" width ="60">
   </a>
-  <a>
-    <img src = "https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.jpg" alt = "JavaScript" width ="60">
-  </a>
+
 </div>
 
 ### Redes Sociais:

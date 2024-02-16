@@ -26,7 +26,7 @@
     <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt = "MySql" width ="60">
   </a>
   <a>
-    <img src = "https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" alt = "JavaScript" width ="60">
+    <img src = "[https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)" alt = "JavaScript" width ="60">
   </a>
 </div>
 

@@ -13,12 +13,6 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
     <img src="https://img.icons8.com/color/452/css3.png" alt = "CSS" width="60">
   </a>
 
-
-
-  <a>
-    <img src = "https://www.pngitem.com/pimgs/m/24-241404_react-native-logo-svg-hd-png-download.png" alt = "React" width ="60">
-  </a>
-
   <a>
     <img src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" alt="Java" width="60">
   </a>

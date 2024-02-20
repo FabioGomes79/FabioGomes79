@@ -38,6 +38,10 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
 ### Estudando no Monmento: 
 <a>
     <img src = "https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.jpg" alt = "JavaScript" width ="60">
+  </a> 
+
+  <a>
+    <img src = "https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt = "React" width ="60">
   </a>
 
 ### Redes Sociais:

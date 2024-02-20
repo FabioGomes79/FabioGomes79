@@ -18,6 +18,10 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
   </a>
 
   <a>
+    <img src = "[https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Freact-vector-logo-4156.html&psig=AOvVaw0bYkjmZ_yriEZfIkCH_1Za&ust=1708544275682000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiN5sbVuoQDFQAAAAAdAAAAABAI)" alt = "React" width ="60">
+  </a>
+
+  <a>
     <img src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" alt="Java" width="60">
   </a>
 

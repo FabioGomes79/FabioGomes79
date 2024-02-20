@@ -18,7 +18,7 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
   </a>
 
   <a>
-    <img src = "[[[[https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Freact-vector-logo-4156.html&psig=AOvVaw0bYkjmZ_yriEZfIkCH_1Za&ust=1708544275682000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiN5sbVuoQDFQAAAAAdAAAAABAI](https://static-00.iconduck.com/assets.00/react-javascript-js-framework-facebook-icon-2048x1822-f7kq7hho.png))](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png)" alt = "React" width ="60">
+    <img src = "[[[[[[https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Freact-vector-logo-4156.html&psig=AOvVaw0bYkjmZ_yriEZfIkCH_1Za&ust=1708544275682000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiN5sbVuoQDFQAAAAAdAAAAABAI](https://static-00.iconduck.com/assets.00/react-javascript-js-framework-facebook-icon-2048x1822-f7kq7hho.png))](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png)](https://p7.hiclipart.com/preview/856/564/839/react-logo-javascript-front-and-back-ends-user-interface-others-thumbnail.jpg)](https://p7.hiclipart.com/preview/856/564/839/react-logo-javascript-front-and-back-ends-user-interface-others-thumbnail.jpg)" alt = "React" width ="60">
   </a>
 
   <a>

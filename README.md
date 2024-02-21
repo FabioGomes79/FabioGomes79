@@ -28,14 +28,19 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
 </div> 
 
 ### Estudando no Monmento: 
+<div style="display: flex; gap: 20px;">
   <a>
     <img src = "https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.jpg" alt = "JavaScript" width ="60">
   </a> 
   
   <a>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt = "React" width ="60">
+  </a> 
+  
+  <a>
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt = "Power bi" width ="60">
   </a>
-
+</div>
 ### Redes Sociais:
 
 <div style="display: flex; gap: 20px; margin-top: 10px;">

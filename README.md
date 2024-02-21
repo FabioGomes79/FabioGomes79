@@ -41,6 +41,7 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt = "Power bi" width ="60">
   </a>
 </div>
+
 ### Redes Sociais:
 
 <div style="display: flex; gap: 20px; margin-top: 10px;">

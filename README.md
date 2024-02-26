@@ -34,10 +34,6 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
   </a> 
   
   <a>
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt = "React" width ="60">
-  </a> 
-  
-  <a>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt = "Power bi" width ="60">
   </a>
 </div>

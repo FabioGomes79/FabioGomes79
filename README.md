@@ -36,6 +36,11 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
   <a>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt = "Power bi" width ="60">
   </a>
+ 
+ <a>
+    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-installation-pip-appcelerator-titanium-flas-1773782%2F&psig=AOvVaw3Xf-UkPersWO9Tx9IrsvRf&ust=1711236123379000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjMiryBiYUDFQAAAAAdAAAAABAJ" alt = "Python" width ="60">
+  </a>
+  
 </div>
 
 ### Redes Sociais:

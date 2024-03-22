@@ -38,7 +38,7 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
   </a>
  
  <a>
-    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-installation-pip-appcelerator-titanium-flas-1773782%2F&psig=AOvVaw3Xf-UkPersWO9Tx9IrsvRf&ust=1711236123379000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjMiryBiYUDFQAAAAAdAAAAABAJ" alt = "Python" width ="60">
+    <img src = "https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" alt = "Python" width ="60">
   </a>
   
 </div>

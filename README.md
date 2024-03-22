@@ -38,7 +38,7 @@ Eu sou um entusiasta da tecnologia e aspirante a desenvolvedor front-end. Estou 
   </a>
  
  <a>
-    <img src = "(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)" alt = "Python" width ="60">
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt = "Python" width ="60">
   </a>
   
 </div>

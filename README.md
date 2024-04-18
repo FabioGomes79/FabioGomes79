@@ -1,4 +1,8 @@
 ## Olá, Eu sou o Fábio Gomes 
+<p align="center">Olá! Sou um desenvolvedor front-end e analista de dados em constante evolução, buscando aprender novas tecnologias e ferramentas, e estou buscando sempre oportunidades que me permite evoluir para me tornar um programador full-stack e analista de dados qualificado.
+
+</p>&nbsp;
+ 
  <div>
    <a href="https://github.com/FabioGomes79">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioGomes79&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

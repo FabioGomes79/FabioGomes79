@@ -2,12 +2,11 @@
 <p align="center">Olá! Sou um desenvolvedor front-end e analista de dados em constante evolução, buscando aprender novas tecnologias e ferramentas, e estou buscando sempre oportunidades que me permite evoluir para me tornar um programador full-stack e analista de dados qualificado.
 
 </p>&nbsp;
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioGomes79&layout=compact&theme=blue-green)     | ![Fabio Status](https://github-readme-stats.vercel.app/api?username=FabioGomes79&show_icons=false&theme=blue-green&hiding_specific_stats) |
+| ---      | ---       |
  
- <div>
-   <a href="https://github.com/FabioGomes79">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioGomes79&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioGomes79&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
+ &nbsp;
+ &nbsp;
 
   ## Tecnologias e Ferramentas 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;

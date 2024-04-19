@@ -3,7 +3,7 @@
 
 </p>&nbsp;
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioGomes79&layout=compact&theme=dark)     | ![Fabio Status](https://github-readme-stats.vercel.app/api?username=FabioGomes79&show_icons=false&theme=dark&hiding_specific_stats) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioGomes79&layout=compact&theme=merko)     | ![Fabio Status](https://github-readme-stats.vercel.app/api?username=FabioGomes79&show_icons=false&theme=merko&hiding_specific_stats) |
 | ---      | ---       |
  
  &nbsp;

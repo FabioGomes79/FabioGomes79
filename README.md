@@ -2,7 +2,8 @@
 <p align="center">Olá! Sou um desenvolvedor front-end e analista de dados em constante evolução, buscando aprender novas tecnologias e ferramentas, e estou buscando sempre oportunidades que me permite evoluir para me tornar um programador full-stack e analista de dados qualificado.
 
 </p>&nbsp;
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioGomes79&layout=compact&theme=blue-green)     | ![Fabio Status](https://github-readme-stats.vercel.app/api?username=FabioGomes79&show_icons=false&theme=blue-green&hiding_specific_stats) |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioGomes79&layout=compact&theme=blue-green)     | ![Carlos Status](https://github-readme-stats.vercel.app/api?username=FabioGomes79&show_icons=false&theme=blue-green&hiding_specific_stats) |
 | ---      | ---       |
  
  &nbsp;

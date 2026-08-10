@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Fábio Gomes 
-<p align="center">Olá! Sou um desenvolvedor front-end e analista de dados em constante evolução, buscando aprender novas tecnologias e ferramentas, e estou buscando sempre oportunidades que me permite evoluir para me tornar um programador full-stack e analista de dados qualificado.
+<p align="center">Olá! Sou um desenvolvedor Python (Web Scraping) e C#(Windowns Form) com experiência e em constante evolução, buscando aprender novas tecnologias e ferramentas, e estou buscando sempre oportunidades que me permite evoluir.
 
 </p>&nbsp;
 

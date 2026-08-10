@@ -14,7 +14,7 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-  ![C#](https://shields.io)
+  ![C#]([https://shields.io](http://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 
 <br> 
 ### Redes Sociais
